@@ -1,13 +1,19 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color:#1e1e1e;
+    color:#f0f0f0;
     align-items: center;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
 
 }
-
+h1{
+    color: #ffffff;
+}
+h2{
+    color:#cccccc
+}
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(60, 37, 124);
     border-radius: 10px;
     height: 400px;
 }
